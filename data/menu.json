@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Margherita Pizza",
+        "price": 45.0,
+        "category": "Main Course",
+        "description": "Classic pizza with tomatoes, mozzarella, and basil.",
+        "available": true
+    },
+    {
+        "name": "Cheesecake",
+        "price": 22.0,
+        "category": "Dessert",
+        "description": "Creamy cheesecake with strawberry sauce.",
+        "available": true
+    },
+    {
+        "name": "Iced Tea",
+        "price": 10.0,
+        "category": "Drink",
+        "description": "Cold black tea with lemon.",
+        "available": true
+    }
+]

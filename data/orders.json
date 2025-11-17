@@ -1,0 +1,38 @@
+[
+    {
+        "order_id": 1,
+        "status": "Completed",
+        "items": [
+            {
+                "item": {
+                    "name": "Iced Tea",
+                    "price": 10.0,
+                    "category": "Drink",
+                    "description": "Cold black tea with lemon.",
+                    "available": true
+                },
+                "quantity": 3,
+                "subtotal": 30.0
+            }
+        ],
+        "total": 30.0
+    },
+    {
+        "order_id": 2,
+        "status": "Completed",
+        "items": [
+            {
+                "item": {
+                    "name": "Iced Tea",
+                    "price": 10.0,
+                    "category": "Drink",
+                    "description": "Cold black tea with lemon.",
+                    "available": true
+                },
+                "quantity": 3,
+                "subtotal": 30.0
+            }
+        ],
+        "total": 30.0
+    }
+]
